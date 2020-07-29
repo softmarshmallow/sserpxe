@@ -1,0 +1,10 @@
+{
+  "name": "sserpxe",
+  "version": "0.0.1",
+  "description": "clean server data access layer",
+  "main": "index.js",
+  "repository": "https://github.com/softmarshmallow/sserpxe",
+  "author": "softmarshmallow",
+  "license": "MIT",
+  "private": false
+}
